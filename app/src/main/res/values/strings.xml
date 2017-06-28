@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">indoor-loc-ml</string>
+    <string name="button_connect">Conectar</string>
+    <string name="button_registrar">Registrar</string>
+</resources>
